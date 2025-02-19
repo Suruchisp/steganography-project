@@ -16,4 +16,22 @@ Supports Various Image Formats – Works with multiple image types like JPG and 
 
 Screenshots
 
-![Screenshots](http://url/to/img.png)
+![Screenshots](img1.png)
+
+![Screenshots](img2.png)
+
+![Screenshots](img3.png)
+
+Technologies Used
+
+*Python
+
+*OpenCV
+
+*Tkinter
+
+*TkinterDnD2
+
+Connect with Me
+
+[LinkedIn](https://www.linkedin.com/in/patilsuruchi/)
