@@ -1,11 +1,11 @@
-# Steganography Project
-*SECURE DATA HIDING IN IMAGES USING STEGANOGRAPHY*
+# 🌟 Steganography Project
+🔶*SECURE DATA HIDING IN IMAGES USING STEGANOGRAPHY*
 
-Project Description
+🔽Project Description
 
 This steganography project hides secret messages within images, ensuring secure and undetectable communication. It features password-protected encryption, minimal image distortion, and drag-and-drop functionality for ease of use. The system provides a covert and efficient method for transmitting sensitive data while maintaining image integrity.
 
-Features
+🔽Features
 
 Message Hiding in Images – Embeds secret text within images for secure communication.
 Password-Protected Encryption – Ensures only authorized users can decrypt the hidden message.
@@ -14,7 +14,7 @@ Drag & Drop Functionality – Allows easy selection of images for encoding and d
 User-Friendly GUI – Simplifies the process of hiding and retrieving messages.
 Supports Various Image Formats – Works with multiple image types like JPG and PNG.
 
-Screenshots
+🔽Screenshots
 
 ![Screenshots](img1.png)
 
@@ -22,16 +22,16 @@ Screenshots
 
 ![Screenshots](img3.png)
 
-Technologies Used
+👩‍💻Technologies Used
 
-*Python
+▪️Python
 
-*OpenCV
+▪️OpenCV
 
-*Tkinter
+▪️Tkinter
 
-*TkinterDnD2
+▪️TkinterDnD2
 
-Connect with Me
+🌏Connect with Me
 
-[LinkedIn](https://www.linkedin.com/in/patilsuruchi/)
+🔻[LinkedIn](https://www.linkedin.com/in/patilsuruchi/)
